@@ -21,7 +21,7 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%; display: flex;">
+<div style="width: 100%; display: flex; aling-items: center;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
@@ -38,8 +38,9 @@
 </div>
 
 ---
-
-### 🧪 Some Technologies I've Used
+<h3>
+  🧪 Some Technologies I've Used
+</h3>
 
 <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
