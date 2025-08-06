@@ -23,9 +23,7 @@
 <div style="justify-content: space-between;">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-  <picture>
+  <picture size=".5">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
