@@ -23,10 +23,10 @@
 ---
 <table width="100%" aling="center"">
   <tr>
-    <td align="left">
+    <td width="100%" align="left">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
     </td>
-    <td align="right">
+    <td width="100%" align="right">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
