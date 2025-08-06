@@ -13,7 +13,7 @@
     <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" />
   </a>
   <a href="https://app.daily.dev/miojonoiado">
-    <img height="40" src="https://play.google.com/store/apps/dev?id=7443027222559352111" />
+    <img height="40" src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1=s256-rw" />
   </a>
 </p>
 
