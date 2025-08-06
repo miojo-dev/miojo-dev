@@ -21,12 +21,12 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<table width="100%" aling="center" style="border: none;">
+<table width="100%" aling="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="left">
+    <td align="left" style="border: none;">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
     </td>
-    <td align="right">
+    <td align="right" style="border: none;">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
