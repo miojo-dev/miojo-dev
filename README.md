@@ -20,7 +20,7 @@
 - 💬 Ask me about multiplataform development (I love it)
 - 📫 How to reach me: joaovitorhobus2@gmail.com
 - ⚡ Fun fact: My favorite language at the moment is C#
-<div style="display: flex; aling-items: center; justify-content: space-between;">
+<div style="display: flex; aling-items: center; gap: 1rem;">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
 
   <picture size=".8">
