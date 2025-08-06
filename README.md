@@ -20,10 +20,15 @@
 - 💬 Ask me about multiplataform development (I love it)
 - 📫 How to reach me: joaovitorhobus2@gmail.com
 - ⚡ Fun fact: My favorite language at the moment is C#
-<div style="width: 100%; justify-content: center;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
-<div/>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h2>
     Some tecnologies I already used
 <h2/>
