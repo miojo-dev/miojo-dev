@@ -21,7 +21,7 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%; display: flex;" align="center">
+<div style="width: 100%; display: flex;" align="space-between">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
