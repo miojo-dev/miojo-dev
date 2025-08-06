@@ -22,8 +22,8 @@
 
 ---
 <table width="100%" aling="center">
-  <thead aling="center">
-    <tr aling="center">
+  <thead aling="center" width="100%">
+    <tr aling="center" width="100%">
       <td aling="left" width="50%">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
         </br>
@@ -39,7 +39,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=donut-vertical" />
         </picture>
       </td>
-      <td aling="right">
+      <td aling="right" width="50%">
         <a href="https://app.daily.dev/miojonoiado"><img src="https://api.daily.dev/devcards/v2/r7LKdLWAdoqp5MNvspkdz.png?r=zws&type=default" width="356" alt="miojo_ noiado's Dev Card"/></a>
       </td>
     </tr>
