@@ -21,7 +21,7 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%; display: flex; aling-items: center;">
+<div style="width: 100%; display: flex;" align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
@@ -38,11 +38,11 @@
 </div>
 
 ---
-<h3>
+<h3 align="center">
   🧪 Some Technologies I've Used
 </h3>
 
-<div style="display: flex;">
+<div style="display: flex;" align="center">
   <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
   <img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
