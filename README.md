@@ -22,20 +22,8 @@
 - ⚡ Fun fact: My favorite language at the moment is C#
 <div style="display: flex; aling-items: center;">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
-
-  <picture size=".8">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
-  </picture>
 <div/>
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <h2>
     Some tecnologies I already used
 <h2/>
