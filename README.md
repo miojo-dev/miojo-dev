@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://www.instagram.com/JV.Hobus/">
-    <img height="30" src="https://skillicons.dev/icons?i=instagram" />
+    <img height="40" src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
   <a href="https://github.com/miojo-dev">
-    <img height="30" src="https://skillicons.dev/icons?i=github" />
+    <img height="40" src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://medium.com/@joaovitorhobus2">
-    <img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" />
+    <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" />
   </a>
 </p>
 
