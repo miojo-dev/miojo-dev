@@ -23,12 +23,7 @@
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miojo-dev/miojo-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miojo-dev/miojo-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/miojo-dev/miojo-dev/output/github-contribution-grid-snake.svg" />
-</picture>
-
+![snake gif](https://github.com/miojo-dev/miojo-dev/blob/output/github-contribution-grid-snake.svg)
 
 <h2>
     Some tecnologies I already used
