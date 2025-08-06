@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=João%20here%20👋&animation=fadeIn"/>
 </p>
-&nbsp;
+
 <p align="center">
   <a href="https://www.instagram.com/JV.Hobus/">
     <img height="40" src="https://skillicons.dev/icons?i=instagram" />
@@ -21,8 +21,10 @@
 - 📫 How to reach me: joaovitorhobus2@gmail.com
 - ⚡ Fun fact: My favorite language at the moment is C#
 
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
+
 <h2>
-    &nbsp;Some tecnologies I already used
+    Some tecnologies I already used
 <h2/>
 
 <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -42,6 +44,7 @@
 <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 
 <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=125&section=footer"/>
