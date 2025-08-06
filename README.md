@@ -21,7 +21,7 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<table width="100%">
+<table width="100%" aling="center">
   <thead>
     <tr>
       <td aling="left">
