@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=João%20here%20👋&animation=fadeIn"/>
 </p>
-
+&nbsp;
 <p align="center">
   <a href="https://www.instagram.com/JV.Hobus/">
     <img height="40" src="https://skillicons.dev/icons?i=instagram" />
