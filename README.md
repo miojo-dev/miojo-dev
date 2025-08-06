@@ -22,6 +22,8 @@
 
 ---
 <div style="width: 100%; display: flex;">
+  <img size="20" align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+
   <picture align="right">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
@@ -33,8 +35,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
   </picture>
-
-  <img size="20" align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </div>
 
 ---
