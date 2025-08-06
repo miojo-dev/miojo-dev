@@ -21,10 +21,10 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%; display: flex;">
-  <img width="100%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+<div style="width: 100%;">
+  <img width="100%" align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 
-  <picture align="right">
+  <picture align="center">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
