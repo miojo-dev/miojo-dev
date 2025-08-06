@@ -22,7 +22,7 @@
 
 ---
 <table width="100%" aling="center"">
-  <tr>
+  <tr width="100%">
     <td width="50%" align="left">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
     </td>
