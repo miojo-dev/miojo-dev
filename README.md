@@ -21,23 +21,29 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%;">
-  <p width="100%">
-    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-  </p>
+<table>
+  <tr>
+    <th>
+      <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 
-  <picture align="center">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
-  </picture>
-</div>
+      <picture align="center">
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
+      </picture>
+    </th>
+    <th>
+      <a href="https://app.daily.dev/miojonoiado"><img src="https://api.daily.dev/devcards/v2/r7LKdLWAdoqp5MNvspkdz.png?r=zws&type=default" width="356" alt="miojo_ noiado's Dev Card"/></a>
+    </th>
+  </tr>
+  
+</table>
 
 ---
 <h3 align="center">
