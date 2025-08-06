@@ -22,7 +22,7 @@
 - ⚡ Fun fact: My favorite language at the moment is C#
 
 <h2>
-    Some tecnologies I already used
+    &nbsp;Some tecnologies I already used
 <h2/>
 
 <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
