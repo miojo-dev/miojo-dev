@@ -22,21 +22,21 @@
 
 ---
 <table width="100%" aling="center">
-  <thead>
-    <tr>
+  <thead aling="center">
+    <tr aling="center">
       <td aling="left">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
         </br>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=donut-vertical&theme=dark"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=donut-vertical"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=donut-vertical" />
         </picture>
       </td>
       <td aling="right">
