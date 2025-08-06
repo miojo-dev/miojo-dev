@@ -21,21 +21,26 @@
 - ⚡ Fun fact: My favorite language at the moment is C#  
 
 ---
-<div style="width: 100%; display: flex;">
-  <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-
-  <picture align="right">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
-  </picture>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+    </td>
+    <td align="right">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=compact" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 <h3 align="center">
