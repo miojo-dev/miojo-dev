@@ -21,7 +21,7 @@
 
 ## 🎵 Currently Listening & 📊 Stats
 
-| What I'm doing: |  |
+| What I'm doing: | Daily.dev |
 |---------|----------------|
 | ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=whbsxmx5fr8t12lbrci8us73c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miojo-dev&layout=donut-vertical&theme=dark) | [![Daily.dev Card](https://api.daily.dev/devcards/v2/r7LKdLWAdoqp5MNvspkdz.png?r=zws&type=default)](https://app.daily.dev/miojonoiado) |
 
