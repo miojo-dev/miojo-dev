@@ -4,10 +4,17 @@
 
 ## Connect with me
 
-<a href="https://www.instagram.com/JV.Hobus/"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://github.com/miojo-dev"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://medium.com/@joaovitorhobus2"><img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" /></a>
-<a href="https://app.daily.dev/miojonoiado"><img height="40" src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1=s256-rw" /></a>
+<p align="center">
+  <a href="https://github.com/miojo-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaovitorhobus2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## About Me
 
