@@ -10,7 +10,7 @@
 ## About Me
 
 - 🔭 I'm currently working on Personal Projects
-- 🌱 I'm currently learning Web development  
+- 🌱 I'm currently learning Unity Game Development  
 - 💬 Ask me about multiplataform development (I love it)  
 - 📫 How to reach me: joaovitorhobus2@gmail.com  
 - ⚡ Fun fact: My favorite language at the moment is C#  
