@@ -27,6 +27,14 @@
 
 ## 🧪 Some Technologies I've Used
 
+### Workspace
+  ![Ryzen](https://img.shields.io/badge/AMD%20Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![Radeon](https://img.shields.io/badge/AMD%20Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+  ![zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+  ![Warp-Terminal](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ### Languages
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
