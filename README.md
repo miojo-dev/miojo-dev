@@ -1,10 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=Jo%C3%A3o%20here%20%F0%9F%91%8B&animation=fadeIn)
 
 <p align="center">
-  <a href="https://www.instagram.com/JV.Hobus/"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://github.com/miojo-dev"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://medium.com/@joaovitorhobus2"><img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" /></a>
-  <a href="https://app.daily.dev/miojonoiado"><img height="40" src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1=s256-rw" /></a>
+  <a href="https://www.instagram.com/JV.Hobus/">
+    <img height="40" src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://github.com/miojo-dev">
+    <img height="40" src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://medium.com/@joaovitorhobus2">
+    <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png"/>
+  </a>
+  <a href="https://app.daily.dev/miojonoiado">
+    <img height="40" src="https://play-lh.googleusercontent.com/ZejAkIHFw3knpmq77o6jJd9yDmzoqWOU-GmHZDIpxMjm8V30_WbR06VASibWPSxjc-W1=s256-rw"/>
+  </a>
 </p>
 
 ## About Me :raising_hand_man:
