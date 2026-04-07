@@ -7,9 +7,6 @@
   <a href="https://github.com/miojo-dev">
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="https://www.reddit.com/user/miojo_noiado/">
-    <img border height="40" src="https://play-lh.googleusercontent.com/h9_0TQCL2exgWM1gGkyRxKkVh7xAHnOcm09vCNAnYHTKOfdSvtjr69CQcIkwyPRvdxM=w480-h960-rw">
-  </a>
   <a href="https://medium.com/@joaovitorhobus2">
     <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png"/>
   </a>
