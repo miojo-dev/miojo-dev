@@ -7,6 +7,7 @@
   <a href="https://github.com/miojo-dev">
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
   </a>
+ [![linkedin](https://www.svgrepo.com/show/75820/linkedin.svg)](https://www.linkedin.com/in/jo%C3%A3ovitorhobus/)
   <a href="https://medium.com/@joaovitorhobus2">
     <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png"/>
   </a>
