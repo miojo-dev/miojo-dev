@@ -55,6 +55,9 @@
   ![Pascal](https://img.shields.io/badge/pascal-%230288d1?style=for-the-badge&logo=lazarus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![FlexBison](https://img.shields.io/badge/flex/bison-FFD43B?style=for-the-badge)
+  ![.ASM](https://img.shields.io/badge/%2EASM-4D1F00?style=for-the-badge&logo=framework&logoColor=white)
 
 ### Frameworks :gear:
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
