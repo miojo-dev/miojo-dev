@@ -15,24 +15,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-
-      - name: Linguist Polyglot
-        id: github-polyglot
-        # You may pin to the exact commit or the version.
-        # uses: spenserblack/github-polyglot@00b8aefaa6140c24b079ef8c273bd714aa44328e
-        uses: spenserblack/github-polyglot@v0.1.2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          format: svg
-      - name: Create language stats image
-        env:
-          SVG: ${{ steps.github-polyglot.outputs.output }}
-        run: echo "$SVG" > language-stats.svg
-                
       
       - name: Delete previous file
-        run: rm ./profile/stats.svg
+        run: | 
+            rm ./profile/stats.svg
+            rm ./language-stats.svg
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -46,7 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          # profile/*.svg
+          git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
