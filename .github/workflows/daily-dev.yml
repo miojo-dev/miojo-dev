@@ -12,9 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: remove deprecated
-        run: rm devcard.png
-        
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
